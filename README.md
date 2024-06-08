@@ -11,5 +11,10 @@
 * Open the project in Android Studio.
 * Run the app on an emulator or an Android device.
 
+### Technologies
+* Jetpack Compose
+* Kotlin
+* Android Studio
+
 ### Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests.
